@@ -38,3 +38,13 @@ Esto es importante para que sientas lo que es desarrollar una solución.
 - Muestre a las personas cercanas, crea un blog, envía un enlace en Twitter, participa en los Meetups de IA en su ciudad.
 
 Independientemente de cómo clasifiques este conocimiento que has adquirido, principiante, intermedio o avanzado, siempre es bueno que lo compartas y que se multiplique.
+
+Links:
+- https://www.aprendemachinelearning.com/
+- https://www.kaggle.com/
+- https://ai.google/education/#?modal_active=none
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
+- http://www.andrewng.org/courses/
+- http://aima.cs.berkeley.edu/
+- http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+  
