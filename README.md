@@ -1,6 +1,8 @@
-# IA-Generativa-para-programacion
+# ChatGPT: optimizando la calidad de los resultados
 
-- Domina la creación de prompts en ChatGPT aplicando diversas estrategias y buenas prácticas para obtener resultados confiables. 
-- Aprende a maximizar los resultados y a manejar textos largos, además de explorar OpenAI Playground. 
-Descubre cómo usar la inteligencia artificial como herramienta de apoyo en estudios y proyectos, incluyendo la integración con p5.js y la aplicación de Text to Speech. 
-- En programación, utiliza ChatGPT para comprender códigos, automatizar tareas, detectar errores rápidamente y mejorar el aprendizaje.
+- Aprende a crear prompts en ChatGPT utilizando diferentes estrategias
+- Utiliza las buenas prácticas para obtener resultados más confiables
+- Entiende como maximizar los resultados obtenidos
+- Crea prompts para difrentes aplicaciones
+- Aprende a como trabajar con textos largos en ChatGPT
+- Conoce OpenAI Playground
