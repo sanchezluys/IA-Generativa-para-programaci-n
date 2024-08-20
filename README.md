@@ -1,6 +1,7 @@
-# IA-Generativa-para-programacion
+# ChatGPT y JavaScript: construyendo el juego Pong
 
-- Domina la creación de prompts en ChatGPT aplicando diversas estrategias y buenas prácticas para obtener resultados confiables. 
-- Aprende a maximizar los resultados y a manejar textos largos, además de explorar OpenAI Playground. 
-Descubre cómo usar la inteligencia artificial como herramienta de apoyo en estudios y proyectos, incluyendo la integración con p5.js y la aplicación de Text to Speech. 
-- En programación, utiliza ChatGPT para comprender códigos, automatizar tareas, detectar errores rápidamente y mejorar el aprendizaje.
+- Conozca ChatGPT
+- Comprender cómo utilizar la herramienta de inteligencia artificial como herramienta de apoyo a los estudios
+- Cree un proyecto utilizando la herramienta p5.js
+- Aprenda a crear mensajes asertivos para generar respuestas adaptadas a sus necesidades
+- Aplique Texto a voz a su proyecto para narrar la puntuación del partido
