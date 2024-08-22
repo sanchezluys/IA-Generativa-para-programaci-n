@@ -1,6 +1,7 @@
-# IA-Generativa-para-programacion
+## ChatGPT y programación: aumenta tu productividad
 
-- Domina la creación de prompts en ChatGPT aplicando diversas estrategias y buenas prácticas para obtener resultados confiables. 
-- Aprende a maximizar los resultados y a manejar textos largos, además de explorar OpenAI Playground. 
-Descubre cómo usar la inteligencia artificial como herramienta de apoyo en estudios y proyectos, incluyendo la integración con p5.js y la aplicación de Text to Speech. 
-- En programación, utiliza ChatGPT para comprender códigos, automatizar tareas, detectar errores rápidamente y mejorar el aprendizaje.
+- Aprenda a utilizar o ChatGPT en el área de programación
+- Comprenda más rápidamente el funcionamiento de códigos
+- Automatice tareas de programación con el ChatGPT
+- Detecte errores en códigos con más facilidad y rapidez
+- Utilice el ChatGPT como herramienta de aprendizaje
